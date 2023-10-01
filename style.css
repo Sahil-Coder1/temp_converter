@@ -1,0 +1,52 @@
+*{  
+transition: all ease-in 0.5s;
+font-family: cabin;
+}
+.main-div{
+    width:fit-content;
+    text-align: center;
+    background-color:#2196f3;
+    border-radius: 16px;
+    padding: 16px;
+}
+h1{
+    color: white;
+}
+input{
+    padding: 8px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+button{
+    background-color: blueviolet;
+    color: white;
+    padding: 8px 16px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+select{
+    background-color: violet;
+    padding: 8px;
+    border-radius: 8px;
+    font-size: 20px;
+    color: white;
+    border: none;
+}
+option:hover{
+    background-color: red;
+}
+span{   
+    color: black;
+    font-size: 20px;
+}
+.res{
+    color: greenyellow;
+    font-size: 20px;
+}
